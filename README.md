@@ -157,4 +157,4 @@ Abaixo estão as comprovações do fluxo completo da solução: ingestão de tel
 
 **C. Entrega de Valor: Alerta do Copiloto Agronômico**
 *(O gatilho de umidade > 85% acionou o envio imediato do plano de ação para o gerente agrícola, materializando o conceito do AI Advisor).*
-![E-mail de Alerta Recebido](Alerta por e-mail.png)
+![E-mail de Alerta Recebido](Alerta_e-mail.png)
