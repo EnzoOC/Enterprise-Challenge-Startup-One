@@ -1,6 +1,6 @@
 # Enterprise-Challenge-Startup-One
 
-# Evolução do Projeto: AgroSmart / AgriVisionAI
+# Evolução do Projeto: AgroSmart / AgroVisionAI
 
 ## Parte 1: Refinamento do Problema
 
