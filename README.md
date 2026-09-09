@@ -1,5 +1,9 @@
 # Enterprise-Challenge-Startup-One
 
+## ▶️ Vídeo Explicativo (Opcional)
+
+- [Link para o vídeo](https://youtu.be/2tt3SnSKUz0)
+
 # Evolução do Projeto: AgroSmart / AgroVisionAI
 
 ## Parte 1: Refinamento do Problema
