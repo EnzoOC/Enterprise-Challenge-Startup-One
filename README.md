@@ -149,12 +149,12 @@ Abaixo estão as comprovações do fluxo completo da solução: ingestão de tel
 
 **A. Execução do Script de Ingestão e Motor de Regras**
 *(Nesta etapa, o script Python simula o envio do payload do sensor para a nuvem e valida o risco fitossanitário).*
-![Execução no Terminal](print_terminal.png)
+![Execução no Terminal](Script-rodando.png)
 
 **B. Integração com Oracle Cloud Infrastructure (Object Storage)**
 *(O arquivo JSON bruto de telemetria sendo persistido com sucesso na camada Raw do Data Lake).*
-![Painel Oracle OCI](print_oracle.png)
+![Painel Oracle OCI](OCI-Bucket.png)
 
 **C. Entrega de Valor: Alerta do Copiloto Agronômico**
 *(O gatilho de umidade > 85% acionou o envio imediato do plano de ação para o gerente agrícola, materializando o conceito do AI Advisor).*
-![E-mail de Alerta Recebido](print_email.png)
+![E-mail de Alerta Recebido](Alerta por e-mail.png)
